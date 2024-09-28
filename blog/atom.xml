@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://panfeng-csv.github.io/demo/blog</id>
     <title>依心的官方网站 Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2024-09-28T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://panfeng-csv.github.io/demo/blog"/>
     <subtitle>依心的官方网站 Blog</subtitle>
     <icon>https://panfeng-csv.github.io/demo/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[I Love U]]></title>
+        <id>https://panfeng-csv.github.io/demo/blog/世界第一吃货殿下</id>
+        <link href="https://panfeng-csv.github.io/demo/blog/世界第一吃货殿下"/>
+        <updated>2024-09-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今天天气真不错，我们大家来上课，老师讲的真不错，真的真的很不错]]></summary>
+        <content type="html"><![CDATA[<p>今天天气真不错，我们大家来上课，老师讲的真不错，真的真的很不错</p>]]></content>
+        <author>
+            <name>Yangshun Tay</name>
+            <uri>https://github.com/yangshun</uri>
+        </author>
+        <category label="随笔" term="随笔"/>
+        <category label="诗" term="诗"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://panfeng-csv.github.io/demo/blog/welcome</id>

@@ -4,10 +4,20 @@
         <title>依心的官方网站 Blog</title>
         <link>https://panfeng-csv.github.io/demo/blog</link>
         <description>依心的官方网站 Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Sep 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh</language>
+        <item>
+            <title><![CDATA[I Love U]]></title>
+            <link>https://panfeng-csv.github.io/demo/blog/世界第一吃货殿下</link>
+            <guid>https://panfeng-csv.github.io/demo/blog/世界第一吃货殿下</guid>
+            <pubDate>Sat, 28 Sep 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[今天天气真不错，我们大家来上课，老师讲的真不错，真的真的很不错]]></description>
+            <content:encoded><![CDATA[<p>今天天气真不错，我们大家来上课，老师讲的真不错，真的真的很不错</p>]]></content:encoded>
+            <category>随笔</category>
+            <category>诗</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://panfeng-csv.github.io/demo/blog/welcome</link>
